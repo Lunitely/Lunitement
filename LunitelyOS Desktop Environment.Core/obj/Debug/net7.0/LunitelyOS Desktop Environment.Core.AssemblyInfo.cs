@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LunitelyOS Desktop Environment.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83ff0d71dcfd7dba106ff9f38b01774cac0ebea6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b899da10e85986289909f73f1f558c97bf406dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LunitelyOS Desktop Environment.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LunitelyOS Desktop Environment.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
