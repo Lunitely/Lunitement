@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment\\views\\taskbarexpandedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|solutionrelative:views\\taskbarexpandedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment\\views\\taskbarexpandedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|solutionrelative:views\\taskbarexpandedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|solutionrelative:views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB17A735-38A0-4C5F-9E99-E32E8C7521BF}|..\\LunitelyOS Desktop Environment.Core\\LunitelyOS Desktop Environment.Core.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment.core\\lunitelyos desktop environment.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment\\views\\desktoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|solutionrelative:views\\desktoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|c:\\users\\moaug\\onedrive\\projects\\lunitelyos\\lunitelyos desktop environment\\views\\desktoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B06016A-6678-453D-A633-3BFA29D12CF1}|LunitelyOS Desktop Environment.csproj|solutionrelative:views\\desktoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\SettingsPage.xaml",
+              "RelativeToolTip": "Views\\SettingsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T18:36:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskbarExpandedPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\TaskbarExpandedPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TaskbarExpandedPage.xaml.cs",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\TaskbarExpandedPage.xaml.cs",
+              "RelativeToolTip": "Views\\TaskbarExpandedPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:35:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskbarExpandedPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\TaskbarExpandedPage.xaml",
+              "RelativeDocumentMoniker": "Views\\TaskbarExpandedPage.xaml",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\TaskbarExpandedPage.xaml",
+              "RelativeToolTip": "Views\\TaskbarExpandedPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T18:35:45.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:34:59.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LunitelyOS Desktop Environment.Core",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment.Core\\LunitelyOS Desktop Environment.Core.csproj",
+              "RelativeDocumentMoniker": "..\\LunitelyOS Desktop Environment.Core\\LunitelyOS Desktop Environment.Core.csproj",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment.Core\\LunitelyOS Desktop Environment.Core.csproj",
+              "RelativeToolTip": "..\\LunitelyOS Desktop Environment.Core\\LunitelyOS Desktop Environment.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T18:34:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesktopPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\DesktopPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DesktopPage.xaml.cs",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\DesktopPage.xaml.cs",
+              "RelativeToolTip": "Views\\DesktopPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:30:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesktopPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\DesktopPage.xaml",
+              "RelativeDocumentMoniker": "Views\\DesktopPage.xaml",
+              "ToolTip": "C:\\Users\\moaug\\OneDrive\\Projects\\LunitelyOS\\LunitelyOS Desktop Environment\\Views\\DesktopPage.xaml",
+              "RelativeToolTip": "Views\\DesktopPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T18:30:33.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

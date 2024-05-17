@@ -1,0 +1,12 @@
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\bin\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.deps.json
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\bin\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.dll
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\bin\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.pdb
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.csproj.AssemblyReference.cache
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.AssemblyInfoInputs.cache
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.AssemblyInfo.cs
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.csproj.CoreCompileInputs.cache
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.dll
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\refint\LunitelyOS Desktop Environment.Core.dll
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\LunitelyOS Desktop Environment.Core.pdb
+C:\Users\moaug\OneDrive\Projects\LunitelyOS\LunitelyOS Desktop Environment.Core\obj\x86\Debug\net7.0\ref\LunitelyOS Desktop Environment.Core.dll

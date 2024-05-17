@@ -1,0 +1,11 @@
+App.xbf
+MainWindow.xbf
+Styles\FontSizes.xbf
+Styles\TextBlock.xbf
+Styles\Thickness.xbf
+Views\DesktopPage.xbf
+Views\FileExplorerDetailControl.xbf
+Views\FileExplorerPage.xbf
+Views\SettingsPage.xbf
+Views\TaskbarExpandedPage.xbf
+Views\TaskbarMinimizedPage.xbf

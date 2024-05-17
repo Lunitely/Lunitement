@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "LunitelyOS Desktop Environment (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "LunitelyOS Desktop Environment (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
